@@ -1,0 +1,62 @@
+{
+  "Mulheres": [
+    {
+      "Nome": "Ana maria",
+      "Idade": "53",
+      "Telefone": "2198235531",
+      "Email": "anama12@gmail.com",
+      "id": 1
+    },
+    {
+      "Nome": "Patricia Costa",
+      "Idade": "34",
+      "Telefone": "21925641345",
+      "Email": "pati4@gmail.com",
+      "id": 2
+    },
+    {
+      "Nome": "Fernanda Dias",
+      "Idade": "20",
+      "Telefone": "21985438769",
+      "Email": "henrique@gmail.com",
+      "id": 3
+    },
+    {
+      "Nome": "Sabrina da Silva",
+      "Idade": "30",
+      "Telefone": "21929132605",
+      "Email": "lopese@gmail.com",
+      "id": 4
+    }
+  ],
+  "Homens": [
+    {
+      "Nome": "Fernando Guedes",
+      "Idade": "39",
+      "Telefone": "21989430095",
+      "Email": "GuedesFe@gmail.com",
+      "id": 1
+    },
+    {
+      "Nome": "Carlos Consceição",
+      "Idade": "18",
+      "Telefone": "21981127205",
+      "Email":"Carlota1221@gmail.com",
+      "id": 2
+    },
+    {
+      "Nome": "Alberto Barbosa",
+      "Idade": "40",
+      "Telefone": "21989403475",
+      "Email": "BarbosaAlberto@gmail.com",
+      "id": 3
+    },
+    {
+      "Nome": "Vagner Medon",
+      "Idade": "36",
+      "Telefone": "21982356205",
+      "Email": "Vagner3030@gmail.com",
+      "id": 4
+    }
+  ]
+}
